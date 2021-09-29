@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Gato/Desktop/u/Cuarto semestre/prog objetos/CasinoEstudiantes/Model/Juego.h
+Jugador.h
+C:/Users/Gato/Desktop/u/Cuarto semestre/prog objetos/CasinoEstudiantes/Model/Jugador.h
+
+C:/Users/Gato/Desktop/u/Cuarto semestre/prog objetos/CasinoEstudiantes/Model/Jugador.h
+iostream
+-
+string
+-
+
+C:/Users/Gato/Desktop/u/Cuarto semestre/prog objetos/CasinoEstudiantes/Model/Mayor13.cpp
+Mayor13.h
+C:/Users/Gato/Desktop/u/Cuarto semestre/prog objetos/CasinoEstudiantes/Model/Mayor13.h
+
+C:/Users/Gato/Desktop/u/Cuarto semestre/prog objetos/CasinoEstudiantes/Model/Mayor13.h
+Juego.h
+C:/Users/Gato/Desktop/u/Cuarto semestre/prog objetos/CasinoEstudiantes/Model/Juego.h
+cstdlib
+-
+ctime
+-
+
